@@ -3,10 +3,15 @@
 }
 .test_mario h2{
     color: white;
-    text-transform: uppercase;
+    text-transform: capitalize;    
+    line-height: normal;
     font-size: 24px;
+    padding: 0px;
+    margin: 0px;
 }
 .test_mario div{
     color: white;
+    text-transform: capitalize;
+    line-height: normal;
     font-size: 18px;
-}
+} 
