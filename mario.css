@@ -1,12 +1,12 @@
 .test_mario{
-    background-color: red;
+    background-color: green;
 }
 .test_mario h2{
     color: white;
     text-transform: uppercase;
-    font-size: 48px;
+    font-size: 24px;
 }
 .test_mario div{
     color: white;
-    font-size: 24px;
+    font-size: 18px;
 }
