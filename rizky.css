@@ -1,2 +1,4 @@
 .test_rizky  {background:blue;}
 .test_rizky h2, .test_rizky div {color:white;}
+.test_rizky h2{margin:0px;padding:0px;}
+.test_rizky div{text-transform:uppercase;}
